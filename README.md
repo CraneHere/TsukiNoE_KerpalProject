@@ -7,4 +7,4 @@
 Сам код [CODE](./CodeKOS/FlyMun.ks)
 
 ## Собственная ракета G-MI8
-Скачать ракету можно по ссылке: [SHIP](https://drive.google.com/drive/folders/1-RZrFsmohiaZVbXbTrjMFoWe5p8RO7N5?usp=sharing)
+Скачать ракету можно по ссылке [SHIP](https://drive.google.com/drive/folders/1-RZrFsmohiaZVbXbTrjMFoWe5p8RO7N5?usp=sharing)
