@@ -8,3 +8,8 @@
 
 ## Собственная ракета G-MI8
 Скачать ракету можно по ссылке [SHIP](https://drive.google.com/drive/folders/1-RZrFsmohiaZVbXbTrjMFoWe5p8RO7N5?usp=sharing)
+
+## Download KSP
+[***For MacOS***](https://appstorrent.ru/628-kerbal-space-program.html) \
+[***For Windows***](https://s1.thelastgame.club/244-kerbal-space-program.html) \
+[***For Linux***](http://ru.softoware.org/simulators/download-kerbal-space-program-71896-for-linux.html)
