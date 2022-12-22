@@ -13,3 +13,6 @@
 [***For MacOS***](https://appstorrent.ru/628-kerbal-space-program.html) \
 [***For Windows***](https://s1.thelastgame.club/244-kerbal-space-program.html) \
 [***For Linux***](http://ru.softoware.org/simulators/download-kerbal-space-program-71896-for-linux.html)
+
+## Прототип нашей миссии
+13 июля 1969. Планировалась доставка на Землю образцов лунного грунта, однако при снижении на поверхность Луны из-за ошибки траектории аппарат врезался в гору [ЛУНА-15](https://ru.wikipedia.org/wiki/Луна-15)
