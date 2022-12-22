@@ -3,6 +3,9 @@
 ## Report
 Отчет по проекту [Report](https://docs.google.com/document/d/13l9cxnhNd9-OJIADTZ62EZafBtEotMbg/edit?usp=share_link&ouid=111079919255953387301&rtpof=true&sd=true)
 
+## Использованная среда разработки KOS
+Ссылка на [GitHub KOS](https://github.com/KSP-KOS/KOS/releases)
+
 ## Code 
 ___(В данном файле представлен код отправки космического аппарата на Луну. Расширение данного файла ".ks")___
 
