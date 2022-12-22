@@ -5,3 +5,6 @@
 
 ## Code (В данном файле представлен код отправки космического аппарата на Луну. Расширение данного файла ".ks")
 Сам код [CODE](./CodeKOS/FlyMun.ks)
+
+##Собственная ракета G-MI8
+Скачать ракету можно по ссылке: [SHIP](https://drive.google.com/drive/folders/1-RZrFsmohiaZVbXbTrjMFoWe5p8RO7N5?hl=ru)
